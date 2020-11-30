@@ -1,0 +1,4 @@
+#Ignore
+_*
+#Except
+!_ayuda.txt
